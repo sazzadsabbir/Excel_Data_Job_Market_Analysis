@@ -132,7 +132,8 @@ To calculate the median year salary I used DAX.
 - 📉 Skills like PowerPoint and Word have the lowest median salaries and likelihood, indicating less specialization and demand in high-salary sectors.
 
 
-<img width="798" height="385" alt="Screenshot 2025-11-28 125408" src="https://github.com/user-attachments/assets/eb56fc9e-e9ae-434c-8989-5cf69e77c27e" />
+<img width="795" height="381" alt="top 10 skills" src="https://github.com/user-attachments/assets/8432fdda-6ee1-4367-ad4e-f2ff6a61db41" />
+
 
 
 ### 🤔So What
