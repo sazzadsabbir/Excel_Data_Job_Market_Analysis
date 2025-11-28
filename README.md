@@ -100,6 +100,30 @@ To calculate the median year salary I used DAX.
 #### 🔗 Data Model
 - I created a relationship between my two tables using the `job_id` column.
 
+<img width="963" height="663" alt="Diagram_View" src="https://github.com/user-attachments/assets/096bf328-88bf-4679-93ca-8eb7f6e058a3" />
+
+#### 📃 Power Pivot Menu
+- The Power Pivot menu was used to refine my data model and makes it easy to create measures.
+
+<img width="1492" height="846" alt="Data_View" src="https://github.com/user-attachments/assets/4b296472-2440-4e19-bdd4-6fe4de62d512" />
+
+### 📊Analysis
+#### 💡Insights
+
+- 💻 SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.
+- ☁️ Emerging technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.
+
+<img width="497" height="407" alt="Top_Skill_for_Data_Nerds" src="https://github.com/user-attachments/assets/bbf78fe3-70d1-4579-9ff6-6205e4cb0071" />
+
+#### 🤔So What
+- Understanding prevalent skills in the industry not only helps professionals stay competitive but also guides training and educational programs to focus on the most impactful technologies.
+
+## 4️⃣ What’s the pay of the top 10 skills?
+### 📊 Skill: Advanced Charts (Pivot Chart)
+#### 📈 PivotChart
+
+
+
 
   
 
